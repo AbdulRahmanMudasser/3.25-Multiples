@@ -27,4 +27,6 @@
             Console.WriteLine(firstNumber + " Is Not A Multiple Of " + secondNumber);
         }
     }
+    // end of Main method
 }
+// end of Multiples class
